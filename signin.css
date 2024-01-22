@@ -1,0 +1,75 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    
+}
+
+.maincontent{
+    padding: 30px;
+    border-radius: 10px;
+    border: 3px solid black;
+    
+}
+.am img{
+    height: 60px;
+
+}
+.am{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+form{
+    background-color: lightblue;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+  
+}
+input{
+    padding-top: 10px ;
+    padding-bottom: 10px;
+    padding-right: 80px;
+    padding-left: 5px;
+    margin-bottom: 20px;
+
+}
+.sign{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
+.btn8{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.btn8 button{
+    padding: 10px 140px;
+    background-color: gold;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+label{
+    font-size: 20px;
+}
+form a{
+    text-decoration: none;
+
+}
+.create{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.new button{
+    padding: 10px 100px;
+    background-color:lightgray ;
+    border-radius: 5px;
+}
